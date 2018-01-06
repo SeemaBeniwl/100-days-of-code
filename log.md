@@ -1,22 +1,107 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: Jan 06, 2018 
+(# Learnt from root, udemy course: https://www.udemy.com/python-game-development-creating-a-snake-game-from-scratch)
+**Today's Progress**: I took my first course in python game development using pygame. Made my first snake game from scratch.Gone through the documentation.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts:** I liked the entire process of making the game. I want to develop the game from what it just was. So, I might give 3 days to make it the best version of the game. While going through the entire library.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Link to work:** [Intial_Snake_Game](https://github.com/SeemaBeniwl/My_first_python_game_snake)
 
-**Link to work:** [Calculator App](http://www.example.com)
+-----------------------------------------------------------------------------------------------------------------------------------
+### Day 2 : Jan 7, 2018
+# Learnt from:)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress**: 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts**: 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Link(s) to work**: [     ](link)
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+
+-----------------------------------------------------------------------------------------------------------------------------------
+### Day : Jan 30, 2018
+# Learnt from:)
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: [     ](link)
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+### Day : Jan 30, 2018
+# Learnt from:)
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: [     ](link)
+
+-----------------------------------------------------------------------------------------------------------------------------------
+### Day : Jan 30, 2018
+# Learnt from:)
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: [     ](link)
+
+-----------------------------------------------------------------------------------------------------------------------------------
+### Day : Jan 30, 2018
+# Learnt from:)
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: [     ](link)
+
+-----------------------------------------------------------------------------------------------------------------------------------
+### Day : Jan 30, 2018
+# Learnt from:)
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: [     ](link)
+
+-----------------------------------------------------------------------------------------------------------------------------------
+### Day : Jan 30, 2018
+# Learnt from:)
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: [     ](link)
+
+-----------------------------------------------------------------------------------------------------------------------------------
+### Day : Jan 30, 2018
+# Learnt from:)
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: [     ](link)
+
+-----------------------------------------------------------------------------------------------------------------------------------
+### Day : Jan 30, 2018
+# Learnt from:)
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: [     ](link)
+
+
 
 
 ### Day 1: June 27, Monday
